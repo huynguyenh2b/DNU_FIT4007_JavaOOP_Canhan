@@ -1,3 +1,4 @@
+package ChuoiTrongJava;
 import java.util.Scanner;
 
 public class ReverseString2 {
