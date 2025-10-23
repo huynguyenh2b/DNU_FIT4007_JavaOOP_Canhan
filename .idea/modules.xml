@@ -4,8 +4,18 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BIenVaTinhToanCoBan/BIenVaTinhToanCoBan.iml" filepath="$PROJECT_DIR$/BIenVaTinhToanCoBan/BIenVaTinhToanCoBan.iml" />
       <module fileurl="file://$PROJECT_DIR$/CauDieuKien/CauDieuKien.iml" filepath="$PROJECT_DIR$/CauDieuKien/CauDieuKien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CauTrucMangTrongJava/CauTrucMangTrongJava.iml" filepath="$PROJECT_DIR$/CauTrucMangTrongJava/CauTrucMangTrongJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChuoiTrongJava/ChuoiTrongJava.iml" filepath="$PROJECT_DIR$/ChuoiTrongJava/ChuoiTrongJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DNU_FIT4007_JavaOOP_Canhan.iml" filepath="$PROJECT_DIR$/.idea/DNU_FIT4007_JavaOOP_Canhan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HamKhoiTaoTrongOOP/HamKhoiTaoTrongOOP.iml" filepath="$PROJECT_DIR$/HamKhoiTaoTrongOOP/HamKhoiTaoTrongOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KiemTraGiuaKyMau/KiemTraGiuaKyMau.iml" filepath="$PROJECT_DIR$/KiemTraGiuaKyMau/KiemTraGiuaKyMau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LapTrinhPhuongThuc/LapTrinhPhuongThuc.iml" filepath="$PROJECT_DIR$/LapTrinhPhuongThuc/LapTrinhPhuongThuc.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwitchCase1/SwitchCase1.iml" filepath="$PROJECT_DIR$/SwitchCase1/SwitchCase1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinhDaHinhTrongOOP/TinhDaHinhTrongOOP.iml" filepath="$PROJECT_DIR$/TinhDaHinhTrongOOP/TinhDaHinhTrongOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinhDongGoiTrongOOP/TinhDongGoiTrongOOP.iml" filepath="$PROJECT_DIR$/TinhDongGoiTrongOOP/TinhDongGoiTrongOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinhKeThuaTrongOOP/TinhKeThuaTrongOOP.iml" filepath="$PROJECT_DIR$/TinhKeThuaTrongOOP/TinhKeThuaTrongOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinhTruuTuongTrongOOP/TinhTruuTuongTrongOOP.iml" filepath="$PROJECT_DIR$/TinhTruuTuongTrongOOP/TinhTruuTuongTrongOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VietCacPhuongThucTrongOOP/VietCacPhuongThucTrongOOP.iml" filepath="$PROJECT_DIR$/VietCacPhuongThucTrongOOP/VietCacPhuongThucTrongOOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/VongLap1/VongLap1.iml" filepath="$PROJECT_DIR$/VongLap1/VongLap1.iml" />
     </modules>
   </component>
