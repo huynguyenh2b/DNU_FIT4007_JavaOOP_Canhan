@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BIenVaTinhToanCoBan/BIenVaTinhToanCoBan.iml" filepath="$PROJECT_DIR$/BIenVaTinhToanCoBan/BIenVaTinhToanCoBan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CauDieuKien/CauDieuKien.iml" filepath="$PROJECT_DIR$/CauDieuKien/CauDieuKien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DNU_FIT4007_JavaOOP_Canhan.iml" filepath="$PROJECT_DIR$/.idea/DNU_FIT4007_JavaOOP_Canhan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchCase1/SwitchCase1.iml" filepath="$PROJECT_DIR$/SwitchCase1/SwitchCase1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VongLap1/VongLap1.iml" filepath="$PROJECT_DIR$/VongLap1/VongLap1.iml" />
+    </modules>
+  </component>
+</project>
